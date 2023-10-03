@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgamorim/development/mlflow/notebooks/mlruns/629301400594929119/c76d1463ff9c443bb02bdf094aa1364c/artifacts
+end_time: 1696353848756
+entry_point_name: ''
+experiment_id: '629301400594929119'
+lifecycle_stage: active
+run_id: c76d1463ff9c443bb02bdf094aa1364c
+run_name: welcoming-ram-876
+run_uuid: c76d1463ff9c443bb02bdf094aa1364c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696353846132
+status: 3
+tags: []
+user_id: dgamorim

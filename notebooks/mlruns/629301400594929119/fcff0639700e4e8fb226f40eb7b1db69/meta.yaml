@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgamorim/development/mlflow/notebooks/mlruns/629301400594929119/fcff0639700e4e8fb226f40eb7b1db69/artifacts
+end_time: 1696353846106
+entry_point_name: ''
+experiment_id: '629301400594929119'
+lifecycle_stage: active
+run_id: fcff0639700e4e8fb226f40eb7b1db69
+run_name: upbeat-wasp-330
+run_uuid: fcff0639700e4e8fb226f40eb7b1db69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696353843879
+status: 3
+tags: []
+user_id: dgamorim

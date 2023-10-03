@@ -1,8 +1,9 @@
 artifact_uri: file:///home/dgamorim/development/mlflow/notebooks/mlruns/920496737718266040/eb1c5206865a4ddfa4aafd41fe29fb37/artifacts
+deleted_time: 1696353822379
 end_time: 1696353337937
 entry_point_name: ''
 experiment_id: '920496737718266040'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: eb1c5206865a4ddfa4aafd41fe29fb37
 run_name: silent-mole-429
 run_uuid: eb1c5206865a4ddfa4aafd41fe29fb37

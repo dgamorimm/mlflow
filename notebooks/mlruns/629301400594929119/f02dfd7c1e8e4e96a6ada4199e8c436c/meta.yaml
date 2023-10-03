@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgamorim/development/mlflow/notebooks/mlruns/629301400594929119/f02dfd7c1e8e4e96a6ada4199e8c436c/artifacts
+end_time: 1696354161441
+entry_point_name: ''
+experiment_id: '629301400594929119'
+lifecycle_stage: active
+run_id: f02dfd7c1e8e4e96a6ada4199e8c436c
+run_name: respected-pig-22
+run_uuid: f02dfd7c1e8e4e96a6ada4199e8c436c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696354157822
+status: 3
+tags: []
+user_id: dgamorim
