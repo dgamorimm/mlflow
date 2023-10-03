@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgamorim/development/mlflow/notebooks/mlruns/920496737718266040/9e6211542faf41fb92ed8c1a359b9b1c/artifacts
+end_time: 1696352542842
+entry_point_name: ''
+experiment_id: '920496737718266040'
+lifecycle_stage: active
+run_id: 9e6211542faf41fb92ed8c1a359b9b1c
+run_name: aged-fawn-841
+run_uuid: 9e6211542faf41fb92ed8c1a359b9b1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696351878047
+status: 3
+tags: []
+user_id: dgamorim

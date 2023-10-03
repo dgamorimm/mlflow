@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgamorim/development/mlflow/notebooks/mlruns/920496737718266040/1be978c4f47547ffb4886d9dc2e3a88d/artifacts
+end_time: 1696353165781
+entry_point_name: ''
+experiment_id: '920496737718266040'
+lifecycle_stage: active
+run_id: 1be978c4f47547ffb4886d9dc2e3a88d
+run_name: resilient-deer-872
+run_uuid: 1be978c4f47547ffb4886d9dc2e3a88d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696353163144
+status: 3
+tags: []
+user_id: dgamorim
