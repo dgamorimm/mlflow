@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgamorim/development/mlflow/mlruns/705669431377998601/70c1d4cd9647475caf481a73fec459cb/artifacts
+end_time: 1696356395500
+entry_point_name: ''
+experiment_id: '705669431377998601'
+lifecycle_stage: active
+run_id: 70c1d4cd9647475caf481a73fec459cb
+run_name: chill-hen-863
+run_uuid: 70c1d4cd9647475caf481a73fec459cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696356392190
+status: 3
+tags: []
+user_id: dgamorim

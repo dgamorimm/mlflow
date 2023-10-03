@@ -1,0 +1,6 @@
+artifact_location: file:///home/dgamorim/development/mlflow/mlruns/705669431377998601
+creation_time: 1696356231472
+experiment_id: '705669431377998601'
+last_update_time: 1696356231472
+lifecycle_stage: active
+name: house-prices-script
