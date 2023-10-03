@@ -1,0 +1,12 @@
+> Para registrar o modelo, precisamos alterar o backend do Mlflow
+- Atraves da linha de comando
+  - mlflow server --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./artifacts --host 0.0.0.0
+- Depois tem que adicionar essa linha antes de setar o experimento no train_model.py
+  - mlflow.set_tracking_uri('http://localhost:5000')
+- Após registrar consguimos categorizar os modelos para o ambiente produtivo
+- Isso ajuda para na hora de servir o modelo, não ter que ficar trocando o run_id toda hora
+- ao servir precisamos fazer a seguinte modificação
+- no seu servidor tem que exportar a variavel de ambiente de tracking na linha de comando 
+  - export MLFLOW_TRACKING_URI=http://127.0.0.1:5000
+- em seguida conseguimos servir e apontar para qual modelo está no ambiente produtivo
+  - mlflow models serve -m 'models:/House Prices/Production' -p 5001

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgamorim/development/mlflow/mlruns/705669431377998601/941add62e7464a11a38a6e170c2757cb/artifacts
+end_time: 1696357961805
+entry_point_name: ''
+experiment_id: '705669431377998601'
+lifecycle_stage: active
+run_id: 941add62e7464a11a38a6e170c2757cb
+run_name: wistful-hare-581
+run_uuid: 941add62e7464a11a38a6e170c2757cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696357958528
+status: 3
+tags: []
+user_id: dgamorim

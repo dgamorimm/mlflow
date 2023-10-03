@@ -1,0 +1,15 @@
+artifact_uri: file:///home/dgamorim/development/mlflow/mlruns/705669431377998601/238d7720b89d4ca5ae333812f78e5f3b/artifacts
+end_time: 1696358038039
+entry_point_name: ''
+experiment_id: '705669431377998601'
+lifecycle_stage: active
+run_id: 238d7720b89d4ca5ae333812f78e5f3b
+run_name: tasteful-chimp-620
+run_uuid: 238d7720b89d4ca5ae333812f78e5f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696358034252
+status: 3
+tags: []
+user_id: dgamorim
